@@ -2,4 +2,26 @@
 
 html , body{
     text-align: center;
-}
+    margin: 0;
+    background-image: linear-gradient(to left, salmon,purple);
+    font-size: 1.2em;
+  }
+
+  .titoletto1 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  p {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+  }
+
+  .link1 {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+  }
+
+
