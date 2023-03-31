@@ -12,7 +12,7 @@ body {
 
 #header {
     text-align: center;
-    background-color: blue;
+    background-color: rgb(55, 55, 240);
     margin-top: 0.5;
 }    
 main{
@@ -49,6 +49,7 @@ code{
 }
 th{
 background-color: blue;
+color: white;
 }
 
 p a{
@@ -60,4 +61,34 @@ section{
 
 aside div{
     background-color: darkgrey;
+    
+}
+
+div a {
+    color: blue;
+}
+
+h2{
+    color: black;
+    text-align: left;
+}
+button{
+    background-color: blue;
+}
+
+.codice{
+    text-align: right;
+}
+.sintassi{
+    text-align: right;
+}
+.meno{
+    text-align: right;
+}
+.mariorossi{
+    color: grey;
+}
+.intestazione{
+    text-align: center;
+    color: white;
 }
