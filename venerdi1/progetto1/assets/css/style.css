@@ -82,3 +82,8 @@ b{
 address,a{
     color: white;
 }
+
+hr{
+    width: 50%;
+    color: white;
+}
